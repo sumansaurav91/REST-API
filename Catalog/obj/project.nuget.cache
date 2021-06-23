@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+2UuVgaXPzurJe8n2yGOHsDtx7rAaIzhqOWlIH0YwJmyZcNA+VKKkyfQA5uRndcbRu+snGr80nZ8DW3sP1jzDQ==",
+  "success": true,
+  "projectFilePath": "/Users/sumansaurav/GitRepository/REST-API/Catalog/Catalog.csproj",
+  "expectedPackageFiles": [
+    "/Users/sumansaurav/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/sumansaurav/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/sumansaurav/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/sumansaurav/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/sumansaurav/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/sumansaurav/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
