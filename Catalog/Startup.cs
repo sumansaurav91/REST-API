@@ -46,7 +46,9 @@ namespace Catalog
             //Mongo DB Repository
             services.AddSingleton<IInMemItemsRepository, MongoDbItemsRepository>();
 
-            services.AddControllers();
+            services.AddControllers(options => {
+                options.SuppressAsyncSuffixInActionNames = false;
+            });
 
             services.AddSwaggerGen(c =>
             {
