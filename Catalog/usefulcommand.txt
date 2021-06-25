@@ -1,0 +1,6 @@
+///Initiate User Secret in .NET
+/// **** dotnet user-secrets init
+
+
+///Set Mongo Db password in .NET secret manager
+/// ****** dotnet user-secrets set MongoDbSettings:Password Admin@1234

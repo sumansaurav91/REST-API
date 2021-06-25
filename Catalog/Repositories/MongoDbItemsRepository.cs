@@ -59,5 +59,7 @@ namespace Catalog.Repositories
         /// ******dotnet add package MongoDB.Driver******
         /// To configure docker for Mongo DB
         ///***** docker run -d --rm --name mongo -p 27017:27017 -v mongodbdata:/data/db mongo
+        /// To Create config key and value to hold sensitive info
+        /// docker run -d --rm --name mongo -p 27017:27017 -v mongodbdata:/data/db -e MONGO_INITDB_ROOT_USERNAME=mongoadmin -e MONGO INITDB_ROOT_PASSWORD=Admin@1234 mongo 
     }
 }
